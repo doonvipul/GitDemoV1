@@ -14,6 +14,8 @@ public class Test5 {
 		System.out.println("-----5----4--");
 		
 		System.out.println("-----5----5--");
+		
+		System.out.println("-----5----6--");
 
 	}
 
